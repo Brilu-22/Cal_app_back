@@ -5,3 +5,7 @@ Pillow
 requests
 python-dotenv
 firebase-admin
+sqlmodel 
+clarifai-grpc 
+grpcio
+protobuf
